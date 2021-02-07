@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Company1",
+    "address": "Moscow, Leninskiy prosp., 8",
+    "phoneNumber": 89998768767,
+    "inn": 876543218912,
+    "ogrn": 9965884689345,
+    "foundationDate" : "20/02/2020",
+    "securities": [
+      {
+        "securityName": "Gazprom share",
+        "code" : "RU0007661625",
+        "validTill" : "29/12/2020",
+        "ownerName": "Company1"
+      },
+      {
+        "securityName": "Lukoil share",
+        "code" : "RU0009876625",
+        "validTill" : "29/06/2020",
+        "ownerName": "Company1"
+      }
+    ]
+  },
+  {
+    "name": "Company2",
+    "address": "Moscow, Leningradskiy prosp., 16",
+    "phoneNumber": 89990975423,
+    "inn": 876549874512,
+    "ogrn": 6598645689345,
+    "foundationDate" : "15/10/1998",
+    "securities": [
+      {
+        "securityName": "Apple share",
+        "code" : "USD0007789625",
+        "validTill" : "29/12/2025",
+        "ownerName": "Company2"
+      },
+      {
+        "securityName": "Windows share",
+        "code" : "RU0098651625",
+        "validTill" : "29/12/2030",
+        "ownerName": "Company2"
+      }
+    ]
+  },
+  {
+    "name": "Company3",
+    "address": "Moscow, Profsoyuznaya str., 8",
+    "phoneNumber": 89168798745,
+    "inn": 976353218912,
+    "ogrn": 6543389266759,
+    "foundationDate" : "24/10/1991",
+    "securities": [
+      {
+        "securityName": "IBM share",
+        "code" : "EU0066761625",
+        "validTill" : "29/12/2022",
+        "ownerName": "Company3"
+      },
+      {
+        "securityName": "Oracle share",
+        "code" : "USD0007354625",
+        "validTill" : "29/12/2028",
+        "ownerName": "Company3"
+      }
+    ]
+  }
+]
